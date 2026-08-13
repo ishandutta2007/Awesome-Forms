@@ -22,18 +22,18 @@ Commercial / hosted platforms are listed separately for completeness. Open-sourc
 
 
 
-| Platform | Description | Key Focus |
-|----------|-------------|-----------|
-| **[Typeform](https://www.typeform.com/)** | Conversational, one-question-at-a-time form and survey platform known for beautiful design, high completion rates, and strong branding options. | Conversational / design-first forms |
-| **[Jotform](https://www.jotform.com/)** | Feature-rich form builder with thousands of templates, payments, widgets, approvals, and broad integrations. Extremely versatile for many use cases. | All-in-one forms + templates + payments |
-| **[Google Forms](https://forms.google.com/)** | Free, simple form and quiz tool tightly integrated with Google Workspace. Ideal for quick internal surveys and basic data collection. | Free / Google Workspace forms |
-| **[Tally](https://tally.so/)** | Modern, Notion-like form builder with a generous free plan, clean UX, and unlimited forms/responses on the free tier. | Simple, unlimited free forms |
-| **[Fillout](https://www.fillout.com/)** | Flexible form builder with strong logic, calculations, payments, and a polished Typeform-style experience at a more accessible price. | Modern forms with advanced logic |
-| **[Cognito Forms](https://www.cognitoforms.com/)** | Powerful no-code form builder with conditional logic, calculations, repeating sections, and workflow features at competitive pricing. | Advanced logic & calculations |
-| **[Formstack](https://www.formstack.com/)** | Enterprise-oriented forms, documents, and e-signature platform with workflow automation, compliance features, and deeper business process tools. | Enterprise forms + documents + workflows |
-| **[Zoho Forms](https://www.zoho.com/forms/)** | Part of the Zoho ecosystem — form builder with integrations across Zoho apps, payments, analytics, and multi-channel sharing. | Zoho ecosystem forms |
-| **[Paperform](https://paperform.co/)** | Beautifully designed forms with strong product pages, payments, bookings, and e-commerce-style capabilities. | Design + payments + product forms |
-| **[Microsoft Forms](https://forms.microsoft.com/)** | Simple form and quiz tool integrated with Microsoft 365 / Teams. Convenient for organizations already in the Microsoft ecosystem. | Microsoft 365 forms & quizzes |
+| Platform | Description | Key Focus | Starting Price | Free Tier / Trial Limit |
+|----------|-------------|-----------|----------------|-------------------------|
+| **[Typeform](https://www.typeform.com/)** | Conversational, one-question-at-a-time form and survey platform known for beautiful design, high completion rates, and strong branding options. | Conversational / design-first forms | $25/mo (Basic plan billed annually) | Free plan: 10 responses/month across all forms |
+| **[Jotform](https://www.jotform.com/)** | Feature-rich form builder with thousands of templates, payments, widgets, approvals, and broad integrations. Extremely versatile for many use cases. | All-in-one forms + templates + payments | $34/mo (Bronze plan billed annually) | Free plan: 5 active forms, 100 monthly submissions, 10 payment submissions/month |
+| **[Google Forms](https://forms.google.com/)** | Free, simple form and quiz tool tightly integrated with Google Workspace. Ideal for quick internal surveys and basic data collection. | Free / Google Workspace forms | Free (Bundled in Google Workspace starting at $6/user/mo for custom business email & controls) | Free plan: Unlimited forms & responses (15 GB shared Google Drive storage limit) |
+| **[Tally](https://tally.so/)** | Modern, Notion-like form builder with a generous free plan, clean UX, and unlimited forms/responses on the free tier. | Simple, unlimited free forms | $29/mo (Tally Pro) | Free plan: Unlimited forms & unlimited responses |
+| **[Fillout](https://www.fillout.com/)** | Flexible form builder with strong logic, calculations, payments, and a polished Typeform-style experience at a more accessible price. | Modern forms with advanced logic | $15/mo (Starter plan billed annually) | Free plan: 1,000 responses/month, unlimited forms & seats |
+| **[Cognito Forms](https://www.cognitoforms.com/)** | Powerful no-code form builder with conditional logic, calculations, repeating sections, and workflow features at competitive pricing. | Advanced logic & calculations | $19/mo (Pro plan) | Free plan: 100 entries/month, 1 user, 100 MB storage |
+| **[Formstack](https://www.formstack.com/)** | Enterprise-oriented forms, documents, and e-signature platform with workflow automation, compliance features, and deeper business process tools. | Enterprise forms + documents + workflows | $83/mo (Forms plan billed annually) | 14-day free trial (Full feature access, no permanent free tier) |
+| **[Zoho Forms](https://www.zoho.com/forms/)** | Part of the Zoho ecosystem — form builder with integrations across Zoho apps, payments, analytics, and multi-channel sharing. | Zoho ecosystem forms | $10/mo (Basic plan billed annually) | Free plan: 3 forms, 500 submissions/month, 1 user, 200 MB storage |
+| **[Paperform](https://paperform.co/)** | Beautifully designed forms with strong product pages, payments, bookings, and e-commerce-style capabilities. | Design + payments + product forms | $24/mo (Essentials plan billed annually) | Free plan: 30 submissions/month, 5 payment submissions/month; 7-day free trial |
+| **[Microsoft Forms](https://forms.microsoft.com/)** | Simple form and quiz tool integrated with Microsoft 365 / Teams. Convenient for organizations already in the Microsoft ecosystem. | Microsoft 365 forms & quizzes | Free (Bundled in Microsoft 365 starting at $6/user/mo for business features & 5M responses/form) | Free plan: 400 forms, 200 responses/form (with personal Microsoft account) |
 
 
 
