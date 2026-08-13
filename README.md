@@ -56,7 +56,7 @@ Below is a curated list of commercial SaaS form building platforms, sorted by **
 
 Online forms have an excellent open-source ecosystem 🌐. Below are top open-source form builders, survey platforms, and form frameworks sorted by **GitHub Star Count (descending)** ⭐.
 
-| Project | Stars | Description | License | Key Focus |
+| Project | Github_Stars | Description | License | Key Focus |
 |---------|-------|-------------|---------|-----------|
 | **[React Hook Form](https://github.com/react-hook-form/react-hook-form)** ⚛️ | <a href="https://github.com/react-hook-form/react-hook-form/stargazers"><img src="https://img.shields.io/github/stars/react-hook-form/react-hook-form?style=social&color=white" alt="React Hook Form Stars"/></a> | Performant, flexible and extensible forms with easy-to-use validation for React apps. | MIT | Standard React Form State Library |
 | **[Formik](https://github.com/jaredpalmer/formik)** 📦 | <a href="https://github.com/jaredpalmer/formik/stargazers"><img src="https://img.shields.io/github/stars/jaredpalmer/formik?style=social&color=white" alt="Formik Stars"/></a> | Build forms in React, without the tears. Declarative form state & validation library. | MIT | Classic React Form Library |
